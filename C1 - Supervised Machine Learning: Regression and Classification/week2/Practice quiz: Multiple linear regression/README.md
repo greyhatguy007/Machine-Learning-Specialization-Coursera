@@ -1,0 +1,1 @@
+![](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week2/Practice%20quiz%3A%20Multiple%20linear%20regression/ss1.png)
