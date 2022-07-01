@@ -1,0 +1,1 @@
+![](C1 - Supervised Machine Learning: Regression and Classification/week3/Practice quiz: Cost function for logistic regression/ss1.png)
