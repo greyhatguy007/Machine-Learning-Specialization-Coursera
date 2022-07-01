@@ -49,7 +49,9 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
         - [Scikit Learn - Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
         - [Overfitting](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab08_Overfitting_Soln.ipynb)
         - [Regularization](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab09_Regularization_Soln.ipynb)
-
+    - [Programming Assignment](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/)
+      - [Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
+  
 ## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 
 ## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
