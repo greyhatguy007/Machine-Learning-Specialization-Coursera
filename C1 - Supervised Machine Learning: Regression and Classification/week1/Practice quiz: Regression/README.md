@@ -1,1 +1,1 @@
-![](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/Practice%20quiz%3A%20Regression/ss1.png)
+<img alt="ss1" src="/Machine-Learning-Specialization-Coursera/C1 - Supervised Machine Learning: Regression and Classification/week1/Practice quiz: Regression/ss1.png">
