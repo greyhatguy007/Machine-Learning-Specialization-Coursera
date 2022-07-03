@@ -1,0 +1,2 @@
+![](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20network%20model/ss1.png)
+![](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20network%20model/ss2.png)
