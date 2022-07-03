@@ -53,6 +53,26 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
       - [Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
 #### [Certificate Of Completion](https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01)
+
+<br/>
+
 ## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+
+- [Week 1](/C2%20-%20Advanced%20Learning%20Algorithms/week1)
+    - [Practice quiz: Neural networks intuition](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20networks%20intuition)
+    - [Practice quiz: Neural network model]()
+<br/>
+
+- [Week 2](/C2%20-%20Advanced%20Learning%20Algorithms/week2)
+
+<br/>
+
+- [Week 3](/C2%20-%20Advanced%20Learning%20Algorithms/week3)
+
+<br/>
+
+- [Week 4](/C2%20-%20Advanced%20Learning%20Algorithms/week4)
+
+<br/>
 
 ## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
