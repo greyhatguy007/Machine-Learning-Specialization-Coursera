@@ -1,0 +1,2 @@
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/36877f8ee5f8437019dfb8f03e134dbbe3464514/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Neural-Network-Training/ss1.png)
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/36877f8ee5f8437019dfb8f03e134dbbe3464514/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Neural-Network-Training/ss2.png)
