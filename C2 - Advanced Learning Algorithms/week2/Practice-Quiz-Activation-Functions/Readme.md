@@ -1,0 +1,2 @@
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/f2b84223545cc7c0062903cf4eac5c6fda53dc20/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions/ss1.png)
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/f2b84223545cc7c0062903cf4eac5c6fda53dc20/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions/ss2.png)
