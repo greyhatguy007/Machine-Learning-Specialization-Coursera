@@ -70,7 +70,8 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice Quiz : Neural Networks Training](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7e5505d650d56554edde4abebc51a2c7c7fb81fb/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Neural-Network-Training)
     - [Practice Quiz : Activation Functions](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/f2b84223545cc7c0062903cf4eac5c6fda53dc20/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions)
     - [Practice Quiz : Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/80c14a835b066568b075410bb2e5e1220b4c3653/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-quiz-Multiclass-Classification)
-    - [Practice Quiz - Additional Neural Networks Concepts](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/3bf176864d32d12eb2cb98ed4661e3ded627befa/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Additional-Neural-Network-Concepts)  
+    - [Practice Quiz : Additional Neural Networks Concepts](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/3bf176864d32d12eb2cb98ed4661e3ded627befa/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Additional-Neural-Network-Concepts)  
+    - [Practice Quiz : Advice for Applying Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/c0d3b6512a2364f97f6ec9e72f42f0b00aaee120/C2%20-%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning)    
 
 <br/>
 
