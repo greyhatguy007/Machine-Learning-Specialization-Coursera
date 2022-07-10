@@ -75,7 +75,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 <br/>
 
 - [Week 3](/C2%20-%20Advanced%20Learning%20Algorithms/week3)
-    - [Practice Quiz : Advice for Applying Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/c0d3b6512a2364f97f6ec9e72f42f0b00aaee120/C2%20-%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning)    
+    - [Practice Quiz : Advice for Applying Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/614fe817ac9b5fba6718512ba8c8a36b856a1cab/C2%20-%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning)    
 
 
 <br/>
