@@ -1,0 +1,1 @@
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/96a5eb1dd10b14343bbbc0cb749599698099760e/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Additional-Neural-Network-Concepts/ss1.png)
