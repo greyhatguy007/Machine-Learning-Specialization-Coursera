@@ -69,6 +69,8 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 - [Week 2](/C2%20-%20Advanced%20Learning%20Algorithms/week2)
     - [Practice Quiz : Neural Networks Training](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7e5505d650d56554edde4abebc51a2c7c7fb81fb/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Neural-Network-Training)
     - [Practice Quiz : Activation Functions](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/f2b84223545cc7c0062903cf4eac5c6fda53dc20/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions)
+    - [Practice Quiz : Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/80c14a835b066568b075410bb2e5e1220b4c3653/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-quiz-Multiclass-Classification)
+  
 <br/>
 
 - [Week 3](/C2%20-%20Advanced%20Learning%20Algorithms/week3)
