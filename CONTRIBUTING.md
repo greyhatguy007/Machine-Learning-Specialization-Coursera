@@ -1,3 +1,3 @@
 If you find it useful,
 
-Drop a *star* !
+Dropping a *star* would be *motivational* !
