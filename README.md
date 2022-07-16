@@ -63,6 +63,12 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice quiz: Neural network model](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20network%20model)
     - [Practice quiz: TensorFlow implementation](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20TensorFlow%20implementation)
     - [Practice quiz : Neural Networks Implementation in Numpy](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/e5d6103f4bdf732390bd85aeb453002f276d8bf3/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice-Quiz-Neural-Networks-Implementation-in-python)
+    - [Optional Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/794f84af434b89b90af8d21b25727661f71148d6/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs)
+      - [Neurons and Layers](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/794f84af434b89b90af8d21b25727661f71148d6/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
+      - [Coffee Roasting](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/794f84af434b89b90af8d21b25727661f71148d6/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
+      - [Coffee Roasting Using Numpy](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/794f84af434b89b90af8d21b25727661f71148d6/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
+    - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/794f84af434b89b90af8d21b25727661f71148d6/C2%20-%20Advanced%20Learning%20Algorithms/week1/C2W1A1)
+      - [Neural Networks for Binary Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/794f84af434b89b90af8d21b25727661f71148d6/C2%20-%20Advanced%20Learning%20Algorithms/week1/C2W1A1/C2_W1_Assignment.ipynb)
   
     
   <br/>
@@ -71,7 +77,8 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice quiz : Neural Networks Training](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7e5505d650d56554edde4abebc51a2c7c7fb81fb/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Neural-Network-Training)
     - [Practice quiz : Activation Functions](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/f2b84223545cc7c0062903cf4eac5c6fda53dc20/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions)
     - [Practice quiz : Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/80c14a835b066568b075410bb2e5e1220b4c3653/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-quiz-Multiclass-Classification)
-    - [Practice quiz : Additional Neural Networks Concepts](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/3bf176864d32d12eb2cb98ed4661e3ded627befa/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Additional-Neural-Network-Concepts)  
+    - [Practice quiz : Additional Neural Networks Concepts](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/3bf176864d32d12eb2cb98ed4661e3ded627befa/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Additional-Neural-Network-Concepts)
+    
 
 <br/>
 
