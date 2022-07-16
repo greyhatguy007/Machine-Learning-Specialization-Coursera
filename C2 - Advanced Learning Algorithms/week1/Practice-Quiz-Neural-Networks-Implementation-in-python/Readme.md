@@ -1,0 +1,3 @@
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/42dfdc298dcac497daba127c398abec5413e607f/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice-Quiz-Neural-Networks-Implementation-in-python/ss1.png)
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/42dfdc298dcac497daba127c398abec5413e607f/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice-Quiz-Neural-Networks-Implementation-in-python/ss2.png)
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/42dfdc298dcac497daba127c398abec5413e607f/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice-Quiz-Neural-Networks-Implementation-in-python/ss3.png)
