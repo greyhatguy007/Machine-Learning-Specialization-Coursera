@@ -70,7 +70,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/794f84af434b89b90af8d21b25727661f71148d6/C2%20-%20Advanced%20Learning%20Algorithms/week1/C2W1A1)
       - [Neural Networks for Binary Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/794f84af434b89b90af8d21b25727661f71148d6/C2%20-%20Advanced%20Learning%20Algorithms/week1/C2W1A1/C2_W1_Assignment.ipynb)
   
-    
+
   <br/>
 
 - [Week 2](/C2%20-%20Advanced%20Learning%20Algorithms/week2)
@@ -96,6 +96,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
         - [Advice for Applied Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7a8ce331775aa5c6ad3e9784744650fc77958b89/C2%20-%20Advanced%20Learning%20Algorithms/week3/C2W3A1/C2_W3_Assignment.ipynb)
 
 <br/>
+
 
 - [Week 4](/C2%20-%20Advanced%20Learning%20Algorithms/week4)
 
