@@ -62,6 +62,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice quiz: Neural networks intuition](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20networks%20intuition)
     - [Practice quiz: Neural network model](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20network%20model)
     - [Practice quiz: TensorFlow implementation](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20TensorFlow%20implementation)
+    - [Practice Quiz : Neural Networks Implementation in Numpy](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/e5d6103f4bdf732390bd85aeb453002f276d8bf3/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice-Quiz-Neural-Networks-Implementation-in-python)
   
     
   <br/>
