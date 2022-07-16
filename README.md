@@ -62,21 +62,21 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice quiz: Neural networks intuition](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20networks%20intuition)
     - [Practice quiz: Neural network model](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20Neural%20network%20model)
     - [Practice quiz: TensorFlow implementation](/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz:%20TensorFlow%20implementation)
-    - [Practice Quiz : Neural Networks Implementation in Numpy](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/e5d6103f4bdf732390bd85aeb453002f276d8bf3/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice-Quiz-Neural-Networks-Implementation-in-python)
+    - [Practice quiz : Neural Networks Implementation in Numpy](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/e5d6103f4bdf732390bd85aeb453002f276d8bf3/C2%20-%20Advanced%20Learning%20Algorithms/week1/Practice-Quiz-Neural-Networks-Implementation-in-python)
   
     
   <br/>
 
 - [Week 2](/C2%20-%20Advanced%20Learning%20Algorithms/week2)
-    - [Practice Quiz : Neural Networks Training](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7e5505d650d56554edde4abebc51a2c7c7fb81fb/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Neural-Network-Training)
-    - [Practice Quiz : Activation Functions](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/f2b84223545cc7c0062903cf4eac5c6fda53dc20/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions)
-    - [Practice Quiz : Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/80c14a835b066568b075410bb2e5e1220b4c3653/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-quiz-Multiclass-Classification)
-    - [Practice Quiz : Additional Neural Networks Concepts](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/3bf176864d32d12eb2cb98ed4661e3ded627befa/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Additional-Neural-Network-Concepts)  
+    - [Practice quiz : Neural Networks Training](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/7e5505d650d56554edde4abebc51a2c7c7fb81fb/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Neural-Network-Training)
+    - [Practice quiz : Activation Functions](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/f2b84223545cc7c0062903cf4eac5c6fda53dc20/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions)
+    - [Practice quiz : Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/80c14a835b066568b075410bb2e5e1220b4c3653/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-quiz-Multiclass-Classification)
+    - [Practice quiz : Additional Neural Networks Concepts](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/3bf176864d32d12eb2cb98ed4661e3ded627befa/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Additional-Neural-Network-Concepts)  
 
 <br/>
 
 - [Week 3](/C2%20-%20Advanced%20Learning%20Algorithms/week3)
-    - [Practice Quiz : Advice for Applying Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/614fe817ac9b5fba6718512ba8c8a36b856a1cab/C2%20-%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning)    
+    - [Practice quiz : Advice for Applying Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/614fe817ac9b5fba6718512ba8c8a36b856a1cab/C2%20-%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning)    
 
 
 <br/>
