@@ -1,0 +1,3 @@
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-decision-tree-learning/ss1.png)
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-decision-tree-learning/ss2.png)
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-decision-tree-learning/ss3.png)
