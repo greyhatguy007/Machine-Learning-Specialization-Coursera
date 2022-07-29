@@ -83,7 +83,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
         - [Softmax](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_SoftMax.ipynb)
         - [Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Multiclass_TF.ipynb)
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/C2W2A1)
-      - [Neural Networks For Handwritten Digit Recogonition - Multiclass](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
+      - [Neural Networks For Handwritten Digit Recognition - Multiclass](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/fd18b6a34ba06c7743ad41917206227ec0d9ef12/C2%20-%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
     
 
 <br/>
