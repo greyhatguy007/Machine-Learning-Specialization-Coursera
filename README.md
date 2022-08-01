@@ -115,7 +115,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 - [Week 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/20e9e2fafcabd86aeeabdda2f79316caba6a5213/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week1)
     - [Practice quiz : Clustering](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/20e9e2fafcabd86aeeabdda2f79316caba6a5213/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week1/Practice%20Quiz:%20Clustering)
-
+    - [Programming Assignment 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/053540378a472dd244007d419303348605cdb321/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week1/C3W1A1)
 <br/>
 
 - [Week 2](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/20e9e2fafcabd86aeeabdda2f79316caba6a5213/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2)
