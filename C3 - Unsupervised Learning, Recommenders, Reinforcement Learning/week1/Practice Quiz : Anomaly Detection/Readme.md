@@ -1,0 +1,2 @@
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/50762882a48709806ca8cfae482eafdb7ccbc394/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week1/Practice%20Quiz%20:%20Anomaly%20Detection/ss1.png)
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/50762882a48709806ca8cfae482eafdb7ccbc394/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week1/Practice%20Quiz%20:%20Anomaly%20Detection/ss2.png)
