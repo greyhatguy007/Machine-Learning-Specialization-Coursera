@@ -1,0 +1,3 @@
+
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/045f46e1e29d1a901c9ae94c7bbb448b89056e91/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/Practice%20quiz%20:%20Reinforcement%20learning%20introduction/ss1.png)
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/045f46e1e29d1a901c9ae94c7bbb448b89056e91/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/Practice%20quiz%20:%20Reinforcement%20learning%20introduction/ss2.png)
