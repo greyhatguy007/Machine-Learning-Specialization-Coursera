@@ -142,3 +142,23 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 
 ### [Specialization Certificate](https://coursera.org/share/a15ac6426f90924491a542850700a759)
+
+<br/>
+
+<br/>
+
+<hr/>
+
+### Course Review :
+
+This Course is a best place towards becoming a Machine Learning Engineer. Even if you're an expert, many algorithms are covered in depth such as decision trees which may help in further improvement of skills.
+
+**Special thanks to [Professor Andrew Ng](https://www.andrewng.org/) for structuring and tailoring this Course.**
+
+<br/>
+
+<hr/>
+
+ Some insights to what you might be able to accomplish at the end of this specialization :
+
+ * <i>Write an unsupervised algorithm to **Land the Lunar Lander** Using Deep Q-Learning</i>
