@@ -139,3 +139,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1)
         - [Deep Q-Learning - Lunar Lander](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1/C3_W3_A1_Assignment.ipynb)
 #### [Certificate of Completion](https://coursera.org/share/5bf5ee456b0c806df9b8622067b47ca6)
+
+
+### [Specialization Certificate](https://coursera.org/share/a15ac6426f90924491a542850700a759)
