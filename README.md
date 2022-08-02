@@ -167,9 +167,12 @@ https://user-images.githubusercontent.com/77543865/182395635-703ae199-ba79-4940-
 
 * <i>Write an algorithm for a **Movie Recommender System**</i>
 
+![movie_recommendation](https://user-images.githubusercontent.com/77543865/182398093-c7387754-34a9-4044-b842-0085060c3525.png)
+
 * <i> And Much Mor ! </i>
 
 Concluding, this is a course which I would recommend everyone to take. Not just because you learn many new stuffs, but also the assignments are real life examples which are *exciting to complete*. 
+
 
  
  
