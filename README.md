@@ -161,7 +161,7 @@ This Course is a best place towards becoming a Machine Learning Engineer. Even i
 
 #### An insight of what you might be able to accomplish at the end of this specialization :
 
-* <i>Write an unsupervised algorithm to **Land the Lunar Lander** Using Deep Q-Learning</i>
+* <i>Write an unsupervised learning algorithm to **Land the Lunar Lander** Using Deep Q-Learning</i>
 
     - The Rover was trained to land correctly on the surface, correctly between the flags as indicators after many unsuccessful attempts in learning how to do it.
     - The final landing after training the agent using appropriate parameters : 
