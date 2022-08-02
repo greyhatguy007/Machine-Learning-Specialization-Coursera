@@ -178,6 +178,7 @@ https://user-images.githubusercontent.com/77543865/182395635-703ae199-ba79-4940-
 
 * <i> And Much More !! </i>
 
+
 Concluding, this is a course which I would recommend everyone to take. Not just because you learn many new stuffs, but also the assignments are real life examples which are *exciting to complete*. 
 
 <br/>
