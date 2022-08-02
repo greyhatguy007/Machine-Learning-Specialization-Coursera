@@ -1,0 +1,8 @@
+ ### C3 - Week 2 Solutions
+ 
+ - [Practice Quiz : Collaborative Filtering](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/1d85288d0d29a33b780f7529f6e72837be7ad188/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/Practice%20Quiz%20:%20Collaborative%20Filtering)
+ - [Practice Quiz : Recommender systems implementation](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/1d85288d0d29a33b780f7529f6e72837be7ad188/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/Practice%20Quiz%20:%20Recommender%20systems%20implementation)
+ - [Practice Quiz : Content-based filtering](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/1d85288d0d29a33b780f7529f6e72837be7ad188/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/Practice%20Quiz%20:%20Content-based%20filtering)
+ - [Programming Assignments](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/1d85288d0d29a33b780f7529f6e72837be7ad188/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/C3W2)
+     - [Collaborative Filtering RecSys](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/1d85288d0d29a33b780f7529f6e72837be7ad188/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/C3W2/C3W2A1/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+     - [RecSys using Neural Networks](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/1d85288d0d29a33b780f7529f6e72837be7ad188/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/C3W2/C3W2A2/C3_W2_RecSysNN_Assignment.ipynb)
