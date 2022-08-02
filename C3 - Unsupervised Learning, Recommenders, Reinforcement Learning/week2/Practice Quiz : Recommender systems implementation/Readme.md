@@ -1,0 +1,2 @@
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/64a19b1c162b79e9d4e70fa25eeb265a6d31137f/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/Practice%20Quiz%20:%20Recommender%20systems%20implementation/ss1.png)
+![](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/64a19b1c162b79e9d4e70fa25eeb265a6d31137f/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/Practice%20Quiz%20:%20Recommender%20systems%20implementation/ss2.png)
