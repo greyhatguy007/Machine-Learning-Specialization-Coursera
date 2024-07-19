@@ -36,7 +36,7 @@ The following guide applies to Linux. Windows users
 should be able to achieve the same goals, just in
 a different way.
 
-### Install NVIDIA CUDA
+### Install NVIDIA CUDA libraries
 
 See this guide: <https://twm.me/posts/how-to-use-tensorflow-with-gpu-linux/>
 
@@ -65,7 +65,6 @@ First, `cd` into this project's directory. Then:
 virtualenv venv -p $(which python3.7)
 source ./venv/bin/activate
 pip install -r requirements.txt
-pip install tensorrt
 ```
 
 Then, open the notebook files with VSCode.
@@ -78,7 +77,10 @@ From now on, you don't have to repeat the
 previous steps anymore. Just open the notebooks
 and you should be able to practice right away!
 
-### Issues
+### Known Issues
+
+Only if you encounter these issues will you need
+to fix them!
 
 - [Jupyter Kernel crashes when using Tensorflow](https://github.com/microsoft/vscode-jupyter/wiki/Kernel-crashes-when-using-tensorflow)
-- [Why you need to install `tensorrt`](https://stackoverflow.com/a/75745465/13680015)
+- [Why you MAY need to install `tensorrt`](https://stackoverflow.com/a/75745465/13680015)
