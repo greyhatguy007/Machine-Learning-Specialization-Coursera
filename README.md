@@ -155,6 +155,10 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 <div align="center">
 
+                        
+### Stargazers over time
+[![Stargazers over time](https://starchart.cc/greyhatguy007/Machine-Learning-Specialization-Coursera.svg?variant=adaptive)](https://starchart.cc/greyhatguy007/Machine-Learning-Specialization-Coursera)                 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreyhatguy007%2FMachine-Learning-Specialization-Coursera&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
