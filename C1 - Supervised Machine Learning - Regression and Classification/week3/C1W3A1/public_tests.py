@@ -2,10 +2,26 @@ import numpy as np
 import math
 
 def sigmoid_test(target):
-    assert np.isclose(target(3.0), 0.9525741268224334), "Failed for scalar input"
-    assert np.allclose(target(np.array([2.5, 0])), [0.92414182, 0.5]), "Failed for 1D array"
-    assert np.allclose(target(np.array([[2.5, -2.5], [0, 1]])), 
-                       [[0.92414182, 0.07585818], [0.5, 0.73105858]]), "Failed for 2D array"
+    z = np.array([2.5, 0])
+    g = target(z)
+    assert g.shape == z.shape, f"Output should have the same shape as the input. Expected {z.shape}, got {g.shape}"
+
+    g_scalar = target(3.0)
+    assert g_scalar.shape == (), f"Scalar input should also output a scalar. Got shape {g_scalar.shape}"
+
+    expected = 0.9525741268224334
+    assert np.isclose(g_scalar, expected), f"Failed for scalar input. Expected {expected}, got {g_scalar}"
+
+    z = np.array([2.5, 0])
+    g = target(z)
+    expected = np.array([0.92414182, 0.5])
+    assert np.allclose(g, expected), f"Failed for 1D array. Expected {expected}, got {g}"
+
+    z = np.array([[2.5, -2.5], [0, 1]])
+    g = target(z)
+    expected = np.array([[0.92414182, 0.07585818], [0.5, 0.73105858]])
+    assert np.allclose(g, expected), f"Failed for 2D array.\nExpected:\n{expected}\nGot:\n{g}"
+
     print('\033[92mAll tests passed!')
     
 def compute_cost_test(target):

@@ -59,7 +59,7 @@ def plot_decision_boundary(w, b, X, y):
         # important to transpose z before calling contour       
         z = z.T
         
-        # Plot z = 0
+        # Plot z = 0.5
         plt.contour(u,v,z, levels = [0.5], colors="g")
 
         
