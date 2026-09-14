@@ -1,0 +1,29 @@
+# Machine Learning Specialization (Coursera / DeepLearning.AI)
+# Supported Python versions: 3.10, 3.11
+
+# Core scientific & data computing
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0
+pandas>=2.0.0
+sympy>=1.12.0
+statsmodels>=0.14.0
+
+# Machine Learning & Deep Learning
+scikit-learn>=1.3.0
+tensorflow>=2.15.0
+xgboost>=2.0.0
+
+# Visualization & image processing
+matplotlib>=3.7.0
+pillow>=10.0.0
+imageio>=2.30.0
+tabulate>=0.9.0
+networkx>=3.0
+
+# Jupyter environment & interactive widgets
+ipykernel>=6.29.0
+ipywidgets>=8.1.0
+ipympl>=0.9.0
+
+# Virtual display (for headless Linux environments)
+pyvirtualdisplay>=3.0
