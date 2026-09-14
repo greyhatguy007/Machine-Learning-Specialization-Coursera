@@ -14,8 +14,9 @@ def test_tower(target):
     for layer in target.layers:
         assert type(layer) == expected[i][0], \
             f"Wrong type in layer {i}. Expected {expected[i][0]} but got {type(layer)}"
-        assert layer.output.shape.as_list() == expected[i][1], \
-            f"Wrong number of units in layer {i}. Expected {expected[i][1]} but got {layer.output.shape.as_list()}"
+        output_shape = list(layer.output.shape)
+        assert output_shape == expected[i][1], \
+            f"Wrong number of units in layer {i}. Expected {expected[i][1]} but got {output_shape}"
         assert layer.activation == expected[i][2], \
             f"Wrong activation in layer {i}. Expected {expected[i][2]} but got {layer.activation}"
         i = i + 1

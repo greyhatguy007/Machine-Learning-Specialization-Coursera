@@ -1,4 +1,4 @@
-import pickle5 as pickle
+import pickle
 import numpy as np
 from numpy import genfromtxt
 from collections import defaultdict

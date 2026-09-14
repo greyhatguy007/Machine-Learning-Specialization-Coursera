@@ -60,8 +60,9 @@ def model_test(target, classes, input_size):
     
     assert len(target.layers) == 3, \
         f"Wrong number of layers. Expected 3 but got {len(target.layers)}"
-    assert target.input.shape.as_list() == [None, input_size], \
-        f"Wrong input shape. Expected [None,  {input_size}] but got {target.input.shape.as_list()}"
+    input_shape = list(target.inputs[0].shape)
+    assert input_shape == [None, input_size], \
+        f"Wrong input shape. Expected [None,  {input_size}] but got {input_shape}"
     i = 0
     expected = [[Dense, [None, 120], relu],
                 [Dense, [None, 40], relu],
@@ -70,8 +71,9 @@ def model_test(target, classes, input_size):
     for layer in target.layers:
         assert type(layer) == expected[i][0], \
             f"Wrong type in layer {i}. Expected {expected[i][0]} but got {type(layer)}"
-        assert layer.output.shape.as_list() == expected[i][1], \
-            f"Wrong number of units in layer {i}. Expected {expected[i][1]} but got {layer.output.shape.as_list()}"
+        output_shape = list(layer.output.shape)
+        assert output_shape == expected[i][1], \
+            f"Wrong number of units in layer {i}. Expected {expected[i][1]} but got {output_shape}"
         assert layer.activation == expected[i][2], \
             f"Wrong activation in layer {i}. Expected {expected[i][2]} but got {layer.activation}"
         assert layer.kernel_regularizer == None, "You must not specify any regularizer for any layer"
@@ -91,8 +93,9 @@ def model_s_test(target, classes, input_size):
     
     assert len(target.layers) == 2, \
         f"Wrong number of layers. Expected 3 but got {len(target.layers)}"
-    assert target.input.shape.as_list() == [None, input_size], \
-        f"Wrong input shape. Expected [None,  {input_size}] but got {target.input.shape.as_list()}"
+    input_shape = list(target.inputs[0].shape)
+    assert input_shape == [None, input_size], \
+        f"Wrong input shape. Expected [None,  {input_size}] but got {input_shape}"
     i = 0
     expected = [[Dense, [None, 6], relu],
                 [Dense, [None, classes], linear]]
@@ -100,8 +103,9 @@ def model_s_test(target, classes, input_size):
     for layer in target.layers:
         assert type(layer) == expected[i][0], \
             f"Wrong type in layer {i}. Expected {expected[i][0]} but got {type(layer)}"
-        assert layer.output.shape.as_list() == expected[i][1], \
-            f"Wrong number of units in layer {i}. Expected {expected[i][1]} but got {layer.output.shape.as_list()}"
+        output_shape = list(layer.output.shape)
+        assert output_shape == expected[i][1], \
+            f"Wrong number of units in layer {i}. Expected {expected[i][1]} but got {output_shape}"
         assert layer.activation == expected[i][2], \
             f"Wrong activation in layer {i}. Expected {expected[i][2]} but got {layer.activation}"
         assert layer.kernel_regularizer == None, "You must not specify any regularizer any layer"
@@ -121,8 +125,9 @@ def model_r_test(target, classes, input_size):
     print("ddd")
     assert len(target.layers) == 3, \
         f"Wrong number of layers. Expected 3 but got {len(target.layers)}"
-    assert target.input.shape.as_list() == [None, input_size], \
-        f"Wrong input shape. Expected [None,  {input_size}] but got {target.input.shape.as_list()}"
+    input_shape = list(target.inputs[0].shape)
+    assert input_shape == [None, input_size], \
+        f"Wrong input shape. Expected [None,  {input_size}] but got {input_shape}"
     i = 0
     expected = [[Dense, [None, 120], relu, (tf.keras.regularizers.l2, 0.1)],
                 [Dense, [None, 40], relu, (tf.keras.regularizers.l2, 0.1)],
@@ -131,8 +136,9 @@ def model_r_test(target, classes, input_size):
     for layer in target.layers:
         assert type(layer) == expected[i][0], \
             f"Wrong type in layer {i}. Expected {expected[i][0]} but got {type(layer)}"
-        assert layer.output.shape.as_list() == expected[i][1], \
-            f"Wrong number of units in layer {i}. Expected {expected[i][1]} but got {layer.output.shape.as_list()}"
+        output_shape = list(layer.output.shape)
+        assert output_shape == expected[i][1], \
+            f"Wrong number of units in layer {i}. Expected {expected[i][1]} but got {output_shape}"
         assert layer.activation == expected[i][2], \
             f"Wrong activation in layer {i}. Expected {expected[i][2]} but got {layer.activation}"
         if not (expected[i][3] == None):
